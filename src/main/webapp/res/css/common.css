@@ -1,0 +1,8 @@
+.table_view td.table_td_view{
+	text-align: right;
+	font-weight: bold;
+} 
+
+.table_view , .table_view td{
+	  border: 1px #ccc solid;
+}
